@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykutreisoglu" alt="aykutreisoglu" /></a> </p>
 
-- 🔭 I’m currently working on [Kodluyoruz Front-End Web Development Hazırlık](https://app.eduflow.com/courses/05210fc2-a16b-49a1-a971-24332b55939f/flows/8c4c537d-3dd2-403d-b45c-deace0712c62/activities/f801acad-a3b8-4688-93a5-6b8b68ca304a)
+- 🔭 I’m currently working on [Kodluyoruz Front-End Web Development Hazırlık](https://www.kodluyoruz.org/bootcamp/2022-web-gelistirme-bootcamp-leri/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and ReactJS.**
 
