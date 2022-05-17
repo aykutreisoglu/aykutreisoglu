@@ -24,6 +24,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutreisoglu&show_icons=true&locale=en" alt="aykutreisoglu" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aykutreisoglu&" alt="aykutreisoglu" /></p>
