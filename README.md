@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and ReactJS.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJS and Angular.**
 
 - 📫 How to reach me **areisoglu29@hotmail.com**
 
